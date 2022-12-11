@@ -22,13 +22,13 @@ Incidence structure for tic-tac-toe
 The game can be generalized to an m,n,k-game, in which two players alternate placing stones of their own color on an m-by-n board with the goal of getting k of their own color in a row. Tic-tac-toe is the 3,3,3-game. Harary's generalized tic-tac-toe is an even broader generalization of tic-tac-toe. It can also be generalized as an nd game, specifically one in which n equals 3 and d equals 2. It can be generalised even further by playing on an arbitrary incidence structure, where rows are lines and cells are points. Tic-tac-toe's incidence structure consists of nine points, three horizontal lines, three vertical lines, and two diagonal lines, with each line consisting of at least three points.
 
 ## GUI of the Game
-![Screenshot3](Screenshot3-main.png)
+![Screenshot3](Screen3shot-main.png)
 
 ## Computer Winning Message Image
-![Screenshot1](Screenshot1-compwon.png)
+![Screenshot1](Screen1shot-compwon.png)
 
 ## Game play Image
-![Screenshot2](Screenshot2-gameplay.png)
+![Screenshot2](Screen2shot-gameplay.png)
 
 
 
